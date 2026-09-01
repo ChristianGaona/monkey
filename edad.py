@@ -6,3 +6,5 @@ else:
     print("eres mayor de edad")
     
 print("jan estuvo aqui")
+
+print("Chris estuvo aquí")
